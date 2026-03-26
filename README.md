@@ -27,7 +27,7 @@ The Decision Tree model provided better practical value by correctly identifying
 - Class distribution analysis
 
 
-![Analysis Preview](Bank Classification Project.png)
+![Analysis Preview](Bank_Classification_Project.png)
 
 ##  Business Impact
 - Enables targeted marketing campaigns
