@@ -25,6 +25,7 @@ The Decision Tree model provided better practical value by correctly identifying
 - Confusion Matrix
 - Accuracy vs True Positive Detection
 - Class distribution analysis
+![Workflow](Bank Classificaton Project.png)
 
 ##  Business Impact
 - Enables targeted marketing campaigns
